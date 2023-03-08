@@ -75,7 +75,7 @@ GEM
       waterdrop (~> 1.4.0)
       zeitwerk (~> 2.1)
     king_konf (1.0.0)
-    rack (2.2.3)
+    rack (2.2.6.3)
     rake (13.0.3)
     redis (4.5.1)
     reline (0.2.5)
